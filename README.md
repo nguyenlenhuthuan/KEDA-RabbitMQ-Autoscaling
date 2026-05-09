@@ -9,6 +9,10 @@ Hệ thống bao gồm:
 - Giám sát qua Prometheus + Grafana
 - Script gửi message từ local với tốc độ kiểm soát (round-robin vào 3 queue)
 
+## Architecture
+
+![Architecture](./Architecture.png)
+
 ## Công nghệ sử dụng
 | Nhóm                 | Công nghệ chính                                      | Vai trò chính                                   |
 |----------------------|------------------------------------------------------|--------------------------------------------------|
